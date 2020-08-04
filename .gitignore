@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+flair.py
+auto_mirror.py
+config.py
 
 # C extensions
 *.so
