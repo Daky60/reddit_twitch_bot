@@ -1,7 +1,7 @@
 # Reddit auto moderate twitch-related sub
-A reddit bot that;
-auto reposts from other subreddits to another,
-auto moderates posts containing twitch clips,
+A reddit bot that;  
+auto reposts from other subreddits to another,  
+auto moderates posts containing twitch clips,  
 attaches vod & mirror links to posts.
 
 ## Important
